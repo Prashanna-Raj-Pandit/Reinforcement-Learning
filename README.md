@@ -1,10 +1,7 @@
 # CS 590 - Advanced AI - Project 3: Reinforcement Learning
 
 **Author: Prashanna Raj Pandit**
-
-<video controls src="Screen Recording 2025-08-09 at 6.13.47 PM.mov" title="
-"></video>
-
+<img src="output.gif"></img>
 ### Overview
 In this project, you will implement **Value Iteration** and **Q-Learning** agents, and apply them to complete the following tasks:
 
