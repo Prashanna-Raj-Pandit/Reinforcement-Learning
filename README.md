@@ -17,6 +17,12 @@ In this project, you will implement **Value Iteration** and **Q-Learning** agent
 
 ---
 
+## Requiment
+
+``
+Python 2.7.18
+``
+
 ## ▶️ Running the Code
 
 ```bash
